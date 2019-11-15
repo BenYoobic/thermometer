@@ -1,0 +1,15 @@
+{
+  "name": "bbq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server --ssl"
+  },
+  "author": "",
+  "license": "ISC"
+}
